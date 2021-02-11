@@ -1,6 +1,6 @@
 ## **Hello there! 👋** ##
 
-My name is SATPAL, I'm a learner and Computer Science student.
+> My name is SATPAL, I'm a learner and Computer Science student.
 
 ### Social Links ###
 
