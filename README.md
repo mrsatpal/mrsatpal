@@ -5,7 +5,7 @@
 ### Social Links ###
 
 <a href="https://www.linkedin.com/in/satpalkumarofficial/"><img src="img/linkedin.png" alt="LinkedIn" style="height: 20px; width: auto; margin-right: 5px;"></a>
-<a href="https://twitter.com/tweetatsatpal/"><img src="img/twitter.png" alt="Twitter" style="height: 20px; width: auto; margin-left: 5px; margin-right: 5px;"></a>
+<a href="https://twitter.com/tweetatsatpal/">   <img src="img/twitter.png" alt="Twitter" style="height: 20px; width: auto; margin-left: 5px; margin-right: 5px;"></a>
 <a href="https://www.instagram.com/satpalkumarofficial/"><img src="img/insta.png" alt="Instagram" style="height: 20px; width: auto; margin-left: 5px; margin-right: 5px;"></a>
 
 ---
